@@ -7,9 +7,9 @@ A passionate guitarist, a photography enthusiast, and a lover of the great outdo
 
 I am eager to develop my expertise further and contribute to the cybersecurity community. Let's connect if you share similar interests or if there are potential opportunities to collaborate!
 
-<h2>🌱 I’m currently learning:</h2>
+<h2>🔭 I’m Currently Working On:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 (Currently in development, stay tuned, the stuff below are not mine, just a template)
 
 
