@@ -8,7 +8,11 @@ A passionate guitarist, a photography enthusiast, and a lover of the great outdo
 I am eager to develop my expertise further and contribute to the cybersecurity community. Let's connect if you share similar interests or if there are potential opportunities to collaborate!
 
 <h2>🔭 I’m Currently Working On:</h2>
+<h3>Certifications</h3>
 
+- <b>IBM IT Support Professional</b>
+- <b>Comptia Security+</b>
+  
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 <h3>(Currently in development, stay tuned, the stuff below are not mine, just a template)</h3>
 
