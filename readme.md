@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yuhin! 
+<h1>Hi, I'm Yuhin!
 
 <h2>⚡ About Me:</h2>
 A dedicated professional with a Diploma in Cybersecurity from Lighthouse Labs, complimented by a background in Criminology. Driven to safeguard our digital landscapes, committed to continuous learning and skill enhancement in the IT and cybersecurity domains. 
@@ -10,7 +10,7 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 <h2>🔭 I’m Currently Working On:</h2>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
-(Currently in development, stay tuned, the stuff below are not mine, just a template)
+<h3>(Currently in development, stay tuned, the stuff below are not mine, just a template)</h3>
 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
