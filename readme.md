@@ -14,24 +14,24 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 - <b>Comptia Security+</b>
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
-<h3>(Currently in development, stay tuned, the stuff below are not mine, just a template)</h3>
+<h3>(Currently in development, stay tuned)</h3>
+
+<h3>Lighthouse Labs Course Projects</h3>
+
+1) <b>Network Administration</b>:
+<n>[Investigation of all devices on a network to confirm IP addresses, check open ports, and running nmap scans]</n>
+<b><i>(https://drive.google.com/drive/folders/1I8GQjo8oJ8eGLInjNQCTxhJeNHlfh_B-?usp=sharing)</i></b>
+
+2) <b>Risks & Vulnerabilities Report</b>:
+<n>[A report that gives recommendations on how to set up PRTG for the organzation in the case study. The report explains the prioritization of identified threats and vulnerabilities, recommends IoCs to monitor for, and specifies what alerts and thresholds need to be set and why]</n>
+<b><i>(https://drive.google.com/drive/folders/1kfE2f3x2D-TMkhzVR5oBWVFMZTRc5Aqf?usp=sharing)</i></b>
+
+3) <b>Log Monitoring Workflow</b>:
+<n>[This project demonstrates how I apply programming tools and commands in creating a workflow to monitor for unusual traffic]</n>
+<b><i>(https://drive.google.com/drive/folders/10ZeS2ixmDIPr4cg4Ym07rC7dSjxKErjB?usp=sharing)</i></b>
 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> 🤳 Connect with me:</h2>
 
