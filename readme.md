@@ -53,10 +53,12 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
    - <b><i>(https://drive.google.com/drive/folders/1igjTrlTcUmp3YWB8zNeqrPpiy5U0lIwJ?usp=sharing)</b></i>
 
 9) <b>Investigation & Research Report</b>:
-   - As a new cyber security manager for a fictional company, I was to write a report that described the following: strong passwords, password expiration policy, Multi-factor Authentication(MFA), Secure email with a personal certificate, VPN IPSec on laptops, Encrypted hard and flash disks to protect portable/mobile devices. This report was written to present to the company's board and to the tech teams. 
-   - <b><i>(https://drive.google.com/drive/folders/1igjTrlTcUmp3YWB8zNeqrPpiy5U0lIwJ?usp=sharing)</b></i>
+   - An investigation and research report on the Marriott International Inc. Data Breach 2018. In the report, the Cyber Kill Chain and Diamond Model were used to describe the attack and a detailed explanation of the data breach was written. In addition, a few mitigations were created to prevent future attacks using the ISO 27001 framework and MITRE ATT&CK database.     
+   - <b><i>(https://drive.google.com/drive/folders/137o0W-N3fa1Kx9J_XxqHbAsgBaRoYfms?usp=sharing)</b></i>
 
-
+10) <b>Forensics Report and Documentation</b>:
+   - A forensics report and documentation     
+   - <b><i>()</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
