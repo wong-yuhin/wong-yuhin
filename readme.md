@@ -11,6 +11,8 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 <h3>Certifications</h3>
 
 - <b>IBM IT Support Professional</b>
+- <b>Comptia A+</b>
+- <b>Comptia Network+</b>
 - <b>Comptia Security+</b>
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
@@ -37,8 +39,11 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+
 
 [linkedin]: https://www.linkedin.com/in/yuhin-wong/
+[Gmail]: wong.yuhin14@gmail.com
 
 <!--
 **wong-yuhin/wong-yuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
