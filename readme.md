@@ -43,7 +43,7 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 
 
 [linkedin]: https://www.linkedin.com/in/yuhin-wong/
-[Gmail]: wong.yuhin14@gmail.com
+[Gmail]: <a href="mailto:"wong.yuhin14@gmail.com">
 
 <!--
 **wong-yuhin/wong-yuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
