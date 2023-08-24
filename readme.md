@@ -25,15 +25,15 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
    - <b><i>(https://drive.google.com/drive/folders/1I8GQjo8oJ8eGLInjNQCTxhJeNHlfh_B-?usp=sharing)</i></b>
 
 2) <b>Risks & Vulnerabilities Report</b>:
-   - A report that gives recommendation on how to set up PRTG for the organization in the case study. The report explains the prioritization of identified threats and vulnerabilities, recommends IoCs to monitor for, and specifies what alerts and thresholds need to be set and why
+   - A report that gave recommendation on how to set up PRTG for the organization in the case study. The report explained the prioritization of identified threats and vulnerabilities, recommended IoCs to monitor for, and specified what alerts and thresholds need to be set and why
    - <b><i>(https://drive.google.com/drive/folders/1kfE2f3x2D-TMkhzVR5oBWVFMZTRc5Aqf?usp=sharing)</i></b>
 
 3) <b>Log Monitoring Workflow</b>:
-   - This project demonstrates how I apply programming tools and commands in creating a workflow to monitor for unusual traffic.
+   - This project demonstrated how I apply programming tools and commands in creating a workflow to monitor for unusual traffic.
    - <b><i>(https://drive.google.com/drive/folders/10ZeS2ixmDIPr4cg4Ym07rC7dSjxKErjB?usp=sharing)</i></b>
 
 4) <b>Playbook for Cat & Box Scenario</b>:
-   - A custom playbook using the NIST Incident Response Lifecycle as well as the guidelines shared by CISA for developing playbooks meant for incident response. The playbook will address a potential Cyber Security breach in the scenario described in the project.
+   - A custom playbook using the NIST Incident Response Lifecycle as well as the guidelines shared by CISA for developing playbooks meant for incident response. The playbook addressed a potential Cyber Security breach in the scenario described in the project.
    - <b><i>(https://drive.google.com/drive/folders/1xe5XB7cQ_T1h9eWPbHCtBpnt59u3CVXp?usp=sharing)</i></b>
 
 5) <b>Risk Management Case Study</b>:
@@ -57,9 +57,19 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
    - <b><i>(https://drive.google.com/drive/folders/137o0W-N3fa1Kx9J_XxqHbAsgBaRoYfms?usp=sharing)</b></i>
 
 10) <b>Forensics Report and Documentation</b>:
-   - A forensics report and documentation     
-   - <b><i>()</b></i>
+   - A forensics report and documentation on the case of the Stolen Szechuan Sauce by DFIR Madness in which a list of questions around the case were answered by investigating artifacts provided.     
+   - <b><i>(https://drive.google.com/drive/folders/1s1ZJn3Ph5zZMDxB4mgZZM0lTArJZtDeE?usp=sharing)</b></i>
 
+11) <b>Secure Architecture Recommendations Report</b>:
+   - A security architecture recommendations report on the basis of my review of the security architecture of a fictional mid-sized e-commerce company and the vulnerabilities & gap that I have identified in the company's network.     
+   - <b><i>(https://drive.google.com/drive/folders/1Q6DcPX0QOoD0mCFlPh6dnuP5VMp9VKKw?usp=sharing)</b></i>
+
+11) <b>Capstone Project</b>:
+   - Based on a fictional company, Premium House Lights Inc.(PHL), this project consists of three parts: Email to manager, Incident Response Report and a presentation.
+     - For the email, the manager of PHL aked for recommendations as they were setting up the security policies and protocols for the company, these recommendations were used to create a robust security policy or the organization.
+     - The incident response report is based on a data breach that happened at PHL, in which certain artifacts were analyzed to find out how this data breach happened. Second, a data breach incident response playbook was created based on NIST 7-step incident response process so that PHL will have the steps to respond, contain and remediate a data breach and post-incident recommendations were created for PHL to protect themselves for future incidents.
+     - A 5 minute presentation was made to briefly talk about the data breach and some recommendations that can be implemented for PHL to protect themselves against future incidents. 
+   - <b><i>(https://drive.google.com/drive/folders/1fct4gLk5NGof9kGl5Wz2N8tNutT7mREp?usp=sharing)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
