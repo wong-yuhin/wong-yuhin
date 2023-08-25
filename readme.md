@@ -10,13 +10,12 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 <h2>🔭 I’m Currently Working On:</h2>
 <h3>Certifications</h3>
 
-- <b>IBM IT Support Professional (planning to take)</b>
+- <b>IBM IT Support Professional (in progress)</b>
 - <b>Comptia A+ (planning to take)</b> 
 - <b>Comptia Network+ (planning to take)</b>
 - <b>Comptia Security+ (planning to take)</b>
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
-<h3>(Currently in development, stay tuned)</h3>
 
 <h3>Lighthouse Labs Course Projects</h3>
 
