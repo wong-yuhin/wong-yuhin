@@ -11,8 +11,7 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 <h3>Certifications</h3>
 
 - <b>IBM IT Support Professional (in progress)</b>
-- <b>Comptia ITF+ (planning to take)</b> 
-- <b>Comptia A+ (planning to take)</b> 
+- <b>Comptia ITF+ (planning to take)</b>  
 - <b>Comptia Network+ (planning to take)</b>
 - <b>Comptia Security+ (planning to take)</b>
   
