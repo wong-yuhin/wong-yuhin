@@ -9,13 +9,13 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 
 <h2>🔭 I’m Currently Working On:</h2>
 
-- <b>Comptia A+</b>
+- <b>CompTIA A+</b>
 
 
 <h2>Certifications</h2>
 
 - <b>IBM IT Support Professional (Awarded on April 2024)</b>
-- <b>Comptia Security+ (Awarded on June 2024)</b>
+- <b>CompTIA Security+ (Awarded on June 2024)</b>
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
