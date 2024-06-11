@@ -8,12 +8,14 @@ A passionate guitarist, a photography enthusiast, and a lover of the great outdo
 I am eager to develop my expertise further and contribute to the cybersecurity community. Let's connect if you share similar interests or if there are potential opportunities to collaborate!
 
 <h2>🔭 I’m Currently Working On:</h2>
-<h3>Certifications</h3>
 
-- <b>IBM IT Support Professional (in progress)</b>
-- <b>Comptia ITF+ (planning to take)</b>  
-- <b>Comptia A+ (planning to take)</b>
-- <b>Comptia Security+ (planning to take)</b>
+- <b>Comptia A+</b>
+
+
+<h2>Certifications</h2>
+
+- <b>IBM IT Support Professional (Awarded on April 2024)</b>
+- <b>Comptia Security+ (Awarded on June 2024)</b>
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
