@@ -10,7 +10,7 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 <h2>🔭 I’m Currently Working On:</h2>
 
 - <b>CompTIA A+</b>
-
+- <b>Active Directory Course and Labs</b>
 
 <h2>Certifications</h2>
 
