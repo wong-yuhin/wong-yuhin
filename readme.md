@@ -16,6 +16,8 @@ I am eager to develop my expertise further and contribute to the cybersecurity c
 
 - <b>IBM IT Support Professional (Awarded on April 2024)</b>
 - <b>CompTIA Security+ (Awarded on June 2024)</b>
+- <b> Active Directory Administration & Basics of Active Directory (Awarded on July 2024)</b>
+
   
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
