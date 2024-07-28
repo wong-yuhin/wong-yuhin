@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yuhin!
 
 <h2>⚡ About Me:</h2>
-A dedicated professional with a Diploma in Cybersecurity from Lighthouse Labs, complimented by a background in Criminology. Driven to safeguard our digital landscapes, committed to continuous learning and skill enhancement in the IT and cybersecurity domains. 
+As a dedicated and proactive professional, I possess a thorough blend of technical knowledge and strong soft skills, which have been honed through hands-on experience and continuous learning. My solid understanding of operating systems, cybersecurity frameworks, and IT tools, combined with my ability to communicate effectively and solve problems analytically, enables me to contribute meaningfully to the industry. I am passionate about staying updated with the latest IT/cybersecurity trends and am committed to lifelong learning and professional growth.
 
 A passionate guitarist, a photography enthusiast, and a lover of the great outdoors. These hobbies provide a creative outlet and offer a unique perspective that adds value to my professional life.
 
